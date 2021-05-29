@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bbk-login-form/static/css/main.192693b8.chunk.css",
-    "main.js": "/bbk-login-form/static/js/main.7ca1200b.chunk.js",
-    "main.js.map": "/bbk-login-form/static/js/main.7ca1200b.chunk.js.map",
+    "main.js": "/bbk-login-form/static/js/main.24cad201.chunk.js",
+    "main.js.map": "/bbk-login-form/static/js/main.24cad201.chunk.js.map",
     "runtime-main.js": "/bbk-login-form/static/js/runtime-main.2385d1c2.js",
     "runtime-main.js.map": "/bbk-login-form/static/js/runtime-main.2385d1c2.js.map",
     "static/js/2.9aa57baa.chunk.js": "/bbk-login-form/static/js/2.9aa57baa.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2385d1c2.js",
     "static/js/2.9aa57baa.chunk.js",
     "static/css/main.192693b8.chunk.css",
-    "static/js/main.7ca1200b.chunk.js"
+    "static/js/main.24cad201.chunk.js"
   ]
 }
